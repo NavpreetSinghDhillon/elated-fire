@@ -1,0 +1,24 @@
+.App {
+  padding: 20px;
+}
+
+.widget {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.MuiPaper-root {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
